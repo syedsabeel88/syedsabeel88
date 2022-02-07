@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syed Sabeel
-- 👀 I’m interested in taking up a new challenge in Machine Learning, Deep Learning
+- 👀 I’m interested in taking up a new challenge in Machine Learning, Deep Learning, AI
 - 🌱 I’m currently looking for roles in Data Science
 - 📫 reach me on linkedin.com/in/syed-sabeel-3b364188
 
